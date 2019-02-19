@@ -1,5 +1,7 @@
 {
   "name": "FitnessRestApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
